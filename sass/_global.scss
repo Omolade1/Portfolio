@@ -1,0 +1,54 @@
+$seccolor1: #7513F4E5;
+$primarycolor1: #F65A5A;
+$tetiarycolor1: #FFFFFF;
+
+// use variables
+@mixin backgroundcolor{
+background: rgba(117, 19, 244, 0.9);
+}
+
+@mixin h1fonts{
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48.83px;
+    line-height: 61px;
+    color: $tetiarycolor1
+}
+
+@mixin h2fonts{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 39.06px;
+    line-height: 47px;
+    color: $tetiarycolor1;
+}
+
+@mixin h3fonts{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 31.25px;
+    line-height: 38px;
+    color: $tetiarycolor1;
+}
+
+@mixin h4fonts{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+
+/* tetiary color1 */
+
+color: $tetiarycolor1;
+
+}
+
+
+
+
+
+

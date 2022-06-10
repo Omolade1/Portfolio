@@ -1,0 +1,30 @@
+.bg-color {
+  background-color: #7513F4E5;
+}
+
+.nav a {
+  color: #FFFFFF !important;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.textcolor1 {
+  color: #F65A5A;
+}
+
+.textcolor2 {
+  color: #FFFFFF;
+}
+
+#icon a {
+  color: #FFFFFF;
+}
+
+#icon :hover {
+  color: #F65A5A;
+}
+
+.align {
+  margin-left: 500px;
+}
+/*# sourceMappingURL=styles.css.map */

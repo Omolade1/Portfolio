@@ -1,0 +1,41 @@
+// @use"global.scss" as *;
+@import "global.scss";
+.bg-color{
+    background-color: $seccolor1;
+}
+    // color: tetiarycolor1 !important;
+.nav{
+    a{
+        color: $tetiarycolor1 !important;
+        text-decoration: none;
+        font-size: 20px;
+    }
+}
+
+// .imgtext img{
+//     position: absolute;
+//     width: 433px;
+//     height: 593px;
+//     left: 814px;
+//     top: 125px;
+// }
+
+.textcolor1{
+    color: $primarycolor1;
+}
+
+.textcolor2{
+    color: $tetiarycolor1;
+}
+
+#icon a{
+    color: $tetiarycolor1;
+}
+
+#icon :hover {
+    color: $primarycolor1;
+}
+ 
+.align {
+    margin-left: 500px;
+}
