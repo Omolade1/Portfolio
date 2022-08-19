@@ -1,5 +1,11 @@
 @use"global.scss" as *;
 // @import "global.scss";
+
+html,
+body {
+    overflow-x: hidden;
+}
+
 .bg-color{
     background-color: $seccolor1;
 }
@@ -39,3 +45,19 @@
 .align {
     margin-left: 500px;
 }
+
+
+
+//  .map-container {
+//      height: 200px;
+//      position: relative;
+//  }
+
+//  .map-container iframe {
+//      left: 0;
+//      top: 0;
+//      height: 100%;
+//      width: 100%;
+//      position: absolute;
+//  }
+
